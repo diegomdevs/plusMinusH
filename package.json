@@ -1,0 +1,15 @@
+{
+  "name": "plusminus",
+  "version": "1.0.0",
+  "description": "hackerRank challenge (plus minus) to print the portions of each number in an array.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "diegodevs <diegom.develops@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^4.3.4",
+    "mocha": "^9.1.3"
+  }
+}
